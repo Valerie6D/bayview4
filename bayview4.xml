@@ -1,5 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="oled_cleardisplay" id="35" x="116" y="69">
+  <block type="comment_comment" id="700" x="136" y="95">
+    <field name="TEXT">hi</field>
     <next>
       <block type="controls_whileUntil" id="68" inline="false">
         <field name="MODE">UNTIL</field>
